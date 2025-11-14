@@ -39,6 +39,8 @@ public class Main {
 
         } while (numero != numrandom2);
 
+        System.out.println("Joc terminat, puelquita");
+
         llegirScanner.close();
     }
 }
